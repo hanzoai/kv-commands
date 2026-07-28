@@ -1,0 +1,27 @@
+{
+  "name": "@hanzo/kv-commands",
+  "version": "0.1.1",
+  "description": "Command metadata for Hanzo KV \u2014 arity, flags and key positions.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "commands.json",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzokv/js-commands.git"
+  },
+  "keywords": [
+    "hanzo",
+    "kv",
+    "commands"
+  ]
+}
